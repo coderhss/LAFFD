@@ -3,7 +3,7 @@ LAFFD: A Light Anchor-Free Face Detector
 
 The code can be available if our paper be accepted.
 
-The results on WIDER FACE validation set with Sigle Inference of Original(SIO).
+The results on WIDER FACE validation set with Single Inference of Original(SIO).
 
 |     Model     | Easy | Medium |  Hard   |  Model_size  |  FLOPs  |
 | :-----------: | :-----: | :-------: | :-------: |:-------: |:-------: |
